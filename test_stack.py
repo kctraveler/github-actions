@@ -47,7 +47,7 @@ class TestStackMethods(unittest.TestCase):
         
     def test_isEmpty(self):
         stack = Stack()
-        self.assertTrue(stack.isEmpty())
+        self.assertFalse(stack.isEmpty()) # Broken intentionally
         stack.add(1)
         self.assertFalse(stack.isEmpty())
         
