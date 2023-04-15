@@ -49,7 +49,7 @@ class Stack:
     
         
     
-if __name__ == "__main__":
+if __name__ == "__main__": # pragma: no cover
     stack = Stack()
 
     for i in range(10):
