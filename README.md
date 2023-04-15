@@ -9,3 +9,5 @@ Project 4 for Software Quality and Testing course. Use GitHub actions for Contin
 [![Linux Build](https://github.com/kctraveler/github-actions/actions/workflows/python-app.yml/badge.svg)](https://github.com/kctraveler/github-actions/actions/workflows/python-app.yml)
 [![CodeFactor](https://www.codefactor.io/repository/github/kctraveler/github-actions/badge)](https://www.codefactor.io/repository/github/kctraveler/github-actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/bb0ae3e1e2bf2f756edc/maintainability)](https://codeclimate.com/github/kctraveler/github-actions/maintainability)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/kctraveler/github-actions)
+![Code Size](https://img.shields.io/github/languages/code-size/kctraveler/github-actions)
