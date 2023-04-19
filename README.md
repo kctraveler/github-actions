@@ -12,15 +12,15 @@ Project 4 for Software Quality and Testing course. Use GitHub actions for Contin
  [![Linux Build](https://github.com/kctraveler/github-actions/actions/workflows/python-app.yml/badge.svg)](https://github.com/kctraveler/github-actions/actions/workflows/python-app.yml)\
  [![CodeFactor](https://www.codefactor.io/repository/github/kctraveler/github-actions/badge)](https://www.codefactor.io/repository/github/kctraveler/github-actions)
 
- The maintainability badge shows the capability of the master code to be changed, reused or repurposed without damaging the strucutre of the codebase. This also includes keeping any dependencies of the master code branch stable: \
+- The maintainability badge shows the capability of the master code to be changed, reused or repurposed without damaging the strucutre of the codebase. This also includes keeping any dependencies of the master code branch stable: \
  [![Maintainability](https://api.codeclimate.com/v1/badges/bb0ae3e1e2bf2f756edc/maintainability)](https://codeclimate.com/github/kctraveler/github-actions/maintainability)
 
- The commit activity badge shows the number of commits pushed to the current repo based on a specific time period. At the moment, 28 commits per month: 
+- The commit activity badge shows the number of commits pushed to the current repo based on a specific time period. At the moment, 28 commits per month: 
  ![Commit Activity](https://img.shields.io/github/commit-activity/m/kctraveler/github-actions)
 
- The code size badge shows the total data size of the current repository: 
+- The code size badge shows the total data size of the current repository: 
  ![Code Size](https://img.shields.io/github/languages/code-size/kctraveler/github-actions)
 
- The pull request badge shows the passing functionality of a forked branch repo being able to connect and contribute code to the original master branch repo: \
+- The pull request badge shows the passing functionality of a forked branch repo being able to connect and contribute code to the original master branch repo: \
  [![Pull Request](https://github.com/Jeffreyricketts/github-actions/actions/workflows/deploy.yml/badge.svg)](https://github.com/Jeffreyricketts/github-actions/actions/workflows/deploy.yml)
 
