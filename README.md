@@ -12,6 +12,6 @@ Project 4 for Software Quality and Testing course. Use GitHub actions for Contin
 [![Maintainability](https://api.codeclimate.com/v1/badges/bb0ae3e1e2bf2f756edc/maintainability)](https://codeclimate.com/github/kctraveler/github-actions/maintainability)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/kctraveler/github-actions)
 ![Code Size](https://img.shields.io/github/languages/code-size/kctraveler/github-actions)
-nasnlcanslca 
+nasnlcanslca \
 [![Pull Request](https://github.com/Jeffreyricketts/github-actions/actions/workflows/deploy.yml/badge.svg)](https://github.com/Jeffreyricketts/github-actions/actions/workflows/deploy.yml)
 
