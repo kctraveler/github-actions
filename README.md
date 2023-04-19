@@ -6,7 +6,7 @@ Project 4 for Software Quality and Testing course. Use GitHub actions for Contin
 - We are using the built in python unittest package as well as PyTest for the initial testing framework
 - Github Status Badges act as funcionality to show the Repositories workflow Status. Whether a paticular workflow is passing, failing or the statistics of the workflow.
 
-- The code coverage badge shows the percentage of the source code that is covered by test suite in "test_stack.py" \
+- The code coverage badge shows the percentage of the source code that is covered by test suite in "test_stack.py": \
  [![Coverage Status](https://coveralls.io/repos/github/kctraveler/github-actions/badge.svg)](https://coveralls.io/github/kctraveler/github-actions)\
 [![Linux Build](https://github.com/kctraveler/github-actions/actions/workflows/python-app.yml/badge.svg)](https://github.com/kctraveler/github-actions/actions/workflows/python-app.yml)\
 [![CodeFactor](https://www.codefactor.io/repository/github/kctraveler/github-actions/badge)](https://www.codefactor.io/repository/github/kctraveler/github-actions)\
