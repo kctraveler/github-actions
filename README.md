@@ -9,8 +9,8 @@ Project 4 for Software Quality and Testing course. Use GitHub actions for Contin
 - The code coverage badge shows the percentage of the source code that is covered by test suite in "test_stack.py":<br />
 [![Coverage Status](https://coveralls.io/repos/github/kctraveler/github-actions/badge.svg)](https://coveralls.io/github/kctraveler/github-actions)
 
- [![Linux Build](https://github.com/kctraveler/github-actions/actions/workflows/python-app.yml/badge.svg)](https://github.com/kctraveler/github-actions/actions/workflows/python-app.yml)<br />
- [![CodeFactor](https://www.codefactor.io/repository/github/kctraveler/github-actions/badge)](https://www.codefactor.io/repository/github/kctraveler/github-actions)
+  [![Linux Build](https://github.com/kctraveler/github-actions/actions/workflows/python-app.yml/badge.svg)](https://github.com/kctraveler/github-actions/actions/workflows/python-app.yml)<br />
+  [![CodeFactor](https://www.codefactor.io/repository/github/kctraveler/github-actions/badge)](https://www.codefactor.io/repository/github/kctraveler/github-actions)
 
 - The maintainability badge shows the capability of the master code to be changed, reused or repurposed without damaging the strucutre of the codebase. This also includes keeping any dependencies of the master code branch stable:<br />
  [![Maintainability](https://api.codeclimate.com/v1/badges/bb0ae3e1e2bf2f756edc/maintainability)](https://codeclimate.com/github/kctraveler/github-actions/maintainability)
