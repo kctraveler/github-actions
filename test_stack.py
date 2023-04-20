@@ -1,6 +1,7 @@
 from stack import Stack
 import pytest
 import unittest
+import untested
 
 class TestStackInit(unittest.TestCase):
     def test_init(self):
