@@ -23,6 +23,4 @@ Project 4 for Software Quality and Testing course. Use GitHub actions for Contin
 - The code size badge shows the total data size of the current repository:<br />
  ![Code Size](https://img.shields.io/github/languages/code-size/kctraveler/github-actions)
 
-- The pull request badge shows the passing functionality of a forked branch repo being able to connect and contribute code to the original master branch repo:<br />
- [![Pull Request](https://github.com/Jeffreyricketts/github-actions/actions/workflows/deploy.yml/badge.svg)](https://github.com/Jeffreyricketts/github-actions/actions/workflows/deploy.yml)
 
