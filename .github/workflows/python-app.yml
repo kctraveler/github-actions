@@ -37,6 +37,7 @@ jobs:
       run: |
         coverage run -m pytest 
     - name: Upload to Coveralls
+      if: always()
       env: 
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
