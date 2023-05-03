@@ -32,3 +32,4 @@ Project 4 for Software Quality and Testing course. Use GitHub actions for contin
 | Badge | Description |
 | --- | --- |
 | <img width="99" alt="image" src="https://user-images.githubusercontent.com/48486097/234377981-16143c00-df1a-49a2-8ba4-99b7d573fa50.png"> | Screenshot from [PR #5](https://github.com/kctraveler/github-actions/pull/5) showing a large pull request. Large PRs are defined as having 500 or more additions, medium pull request are defined by having 200 and 500 additions. No connections to outside providers are needed for this badge. Although the additions/deletions is already readily available in the PR workflow, this badge demonstrates a concept that could be adapted to more complex workflows. |
+
